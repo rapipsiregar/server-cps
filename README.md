@@ -6,7 +6,7 @@
 
 ## 👋 Perkenalan
 
-Halo semuanya, aku **Rafif Riqullah Siregar**, biasa dipanggil **Rapip** atau **Lek** karena aku asli dari Medan. Aku dari jurusan **S1 Teknik Telekomunikasi Angkatan 47** dan aku itu **Asisten Praktikum Cyber Physical System** angkatan 2023.
+Halo semuanya, aku **Rafif Riqullah Siregar**, asli dari Medan. Aku dari jurusan **S1 Teknik Telekomunikasi Angkatan 47** dan aku **Asisten Praktikum Cyber Physical System** angkatan 2023.
 Ini media sosial aku yaa:
 - Instagram: https://www.instagram.com/rafifriqullah?igsh=YmppdGdmeGgzd2V6&utm_source=qr 
 - LinkedIn: https://www.linkedin.com/in/rafif-riqullah-siregar-84b624281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
